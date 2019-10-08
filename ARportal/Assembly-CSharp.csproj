@@ -11,7 +11,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{16526419-1976-28BD-9F1F-E1CAD7596470}</ProjectGuid>
+    <ProjectGuid>{CB654402-0240-6FA7-EA09-9334496E8468}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -64,82 +64,82 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\PortalCamera.cs" />
     <Reference Include="Unity.XR.ARKit.FaceTracking.Editor">
-      <HintPath>E:/unity project/ARportal/20190926/Library/ScriptAssemblies/Unity.XR.ARKit.FaceTracking.Editor.dll</HintPath>
+      <HintPath>E:/unity project/ARportal/ARportal/Library/ScriptAssemblies/Unity.XR.ARKit.FaceTracking.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.Management">
-      <HintPath>E:/unity project/ARportal/20190926/Library/ScriptAssemblies/Unity.XR.Management.dll</HintPath>
+      <HintPath>E:/unity project/ARportal/ARportal/Library/ScriptAssemblies/Unity.XR.Management.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>E:/unity project/ARportal/20190926/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>E:/unity project/ARportal/ARportal/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.ARKit">
-      <HintPath>E:/unity project/ARportal/20190926/Library/ScriptAssemblies/Unity.XR.ARKit.dll</HintPath>
+      <HintPath>E:/unity project/ARportal/ARportal/Library/ScriptAssemblies/Unity.XR.ARKit.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Subsystem.Registration">
-      <HintPath>E:/unity project/ARportal/20190926/Library/ScriptAssemblies/Unity.Subsystem.Registration.dll</HintPath>
+      <HintPath>E:/unity project/ARportal/ARportal/Library/ScriptAssemblies/Unity.Subsystem.Registration.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>E:/unity project/ARportal/20190926/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>E:/unity project/ARportal/ARportal/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.ARSubsystems">
-      <HintPath>E:/unity project/ARportal/20190926/Library/ScriptAssemblies/Unity.XR.ARSubsystems.dll</HintPath>
+      <HintPath>E:/unity project/ARportal/ARportal/Library/ScriptAssemblies/Unity.XR.ARSubsystems.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.ARSubsystems.Editor">
-      <HintPath>E:/unity project/ARportal/20190926/Library/ScriptAssemblies/Unity.XR.ARSubsystems.Editor.dll</HintPath>
+      <HintPath>E:/unity project/ARportal/ARportal/Library/ScriptAssemblies/Unity.XR.ARSubsystems.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.ARCore">
-      <HintPath>E:/unity project/ARportal/20190926/Library/ScriptAssemblies/Unity.XR.ARCore.dll</HintPath>
+      <HintPath>E:/unity project/ARportal/ARportal/Library/ScriptAssemblies/Unity.XR.ARCore.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.ARFoundation.Editor">
-      <HintPath>E:/unity project/ARportal/20190926/Library/ScriptAssemblies/Unity.XR.ARFoundation.Editor.dll</HintPath>
+      <HintPath>E:/unity project/ARportal/ARportal/Library/ScriptAssemblies/Unity.XR.ARFoundation.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>E:/unity project/ARportal/20190926/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>E:/unity project/ARportal/ARportal/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.ARKit.FaceTracking">
-      <HintPath>E:/unity project/ARportal/20190926/Library/ScriptAssemblies/Unity.XR.ARKit.FaceTracking.dll</HintPath>
+      <HintPath>E:/unity project/ARportal/ARportal/Library/ScriptAssemblies/Unity.XR.ARKit.FaceTracking.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.ARFoundation">
-      <HintPath>E:/unity project/ARportal/20190926/Library/ScriptAssemblies/Unity.XR.ARFoundation.dll</HintPath>
+      <HintPath>E:/unity project/ARportal/ARportal/Library/ScriptAssemblies/Unity.XR.ARFoundation.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>E:/unity project/ARportal/20190926/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>E:/unity project/ARportal/ARportal/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.ARCore.Editor">
-      <HintPath>E:/unity project/ARportal/20190926/Library/ScriptAssemblies/Unity.XR.ARCore.Editor.dll</HintPath>
+      <HintPath>E:/unity project/ARportal/ARportal/Library/ScriptAssemblies/Unity.XR.ARCore.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>E:/unity project/ARportal/20190926/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>E:/unity project/ARportal/ARportal/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>E:/unity project/ARportal/20190926/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>E:/unity project/ARportal/ARportal/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.XR.LegacyInputHelpers">
-      <HintPath>E:/unity project/ARportal/20190926/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
+      <HintPath>E:/unity project/ARportal/ARportal/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.Management.Editor">
-      <HintPath>E:/unity project/ARportal/20190926/Library/ScriptAssemblies/Unity.XR.Management.Editor.dll</HintPath>
+      <HintPath>E:/unity project/ARportal/ARportal/Library/ScriptAssemblies/Unity.XR.Management.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>E:/unity project/ARportal/20190926/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>E:/unity project/ARportal/ARportal/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.SpatialTracking">
-      <HintPath>E:/unity project/ARportal/20190926/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
+      <HintPath>E:/unity project/ARportal/ARportal/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.SpatialTracking">
-      <HintPath>E:/unity project/ARportal/20190926/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
+      <HintPath>E:/unity project/ARportal/ARportal/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>E:/unity project/ARportal/20190926/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>E:/unity project/ARportal/ARportal/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.XR.LegacyInputHelpers">
-      <HintPath>E:/unity project/ARportal/20190926/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
+      <HintPath>E:/unity project/ARportal/ARportal/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.ARKit.Editor">
-      <HintPath>E:/unity project/ARportal/20190926/Library/ScriptAssemblies/Unity.XR.ARKit.Editor.dll</HintPath>
+      <HintPath>E:/unity project/ARportal/ARportal/Library/ScriptAssemblies/Unity.XR.ARKit.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>E:/unity project/ARportal/20190926/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>E:/unity project/ARportal/ARportal/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.3f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
